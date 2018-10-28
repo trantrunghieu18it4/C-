@@ -42,7 +42,8 @@
  		if((cs>=50)&&(cs<100))
  		tiendien=50*1500+(cs-50)*2000;
  		else
- 		tiendien=50*1500+50*2000+(cs-100)*3000;		
+ 		tiendien=50*1500+50*2000+(cs-100)*3000;
+ 		
 	 }
 	 return tiendien;
  }
